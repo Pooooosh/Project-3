@@ -1,0 +1,12 @@
+body{
+    padding: 100px;
+    background-color: peachpuff;
+}
+
+.card{
+    background-color: wheat;
+}
+
+#book-list > li{
+   background-color: wheat;
+}
